@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|c:\\2\u00BAdam\\acceso a datos\\proyectofinal\\proyectofinal\\proyectofinal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\proyectofinal.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|c:\\2\u00BAdam\\acceso a datos\\proyectofinal\\proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|c:\\2\u00BAdam\\acceso a datos\\proyectofinal\\proyectofinal\\controllers\\platoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\controllers\\platoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|c:\\2\u00BAdam\\acceso a datos\\proyectofinal\\proyectofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|c:\\2\u00BAdam\\acceso a datos\\proyectofinal\\proyectofinal\\models\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\models\\plato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|c:\\2\u00BAdam\\acceso a datos\\proyectofinal\\proyectofinal\\models\\restaurantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\models\\restaurantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|c:\\2\u00BAdam\\acceso a datos\\proyectofinal\\proyectofinal\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|c:\\2\u00BAdam\\acceso a datos\\proyectofinal\\proyectofinal\\migrations\\20250225200717_agregarnuevoscampos2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\migrations\\20250225200717_agregarnuevoscampos2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|c:\\2\u00BAdam\\acceso a datos\\proyectofinal\\proyectofinal\\migrations\\20250225200458_agregarnuevoscampos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD683073-F337-49EE-BD45-BB5926409553}|ProyectoFinal\\ProyectoFinal.csproj|solutionrelative:proyectofinal\\migrations\\20250225200458_agregarnuevoscampos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250225200717_AgregarNuevosCampos2.cs",
+              "DocumentMoniker": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\Migrations\\20250225200717_AgregarNuevosCampos2.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Migrations\\20250225200717_AgregarNuevosCampos2.cs",
+              "ToolTip": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\Migrations\\20250225200717_AgregarNuevosCampos2.cs",
+              "RelativeToolTip": "ProyectoFinal\\Migrations\\20250225200717_AgregarNuevosCampos2.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:07:18.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250225200458_AgregarNuevosCampos.cs",
+              "DocumentMoniker": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\Migrations\\20250225200458_AgregarNuevosCampos.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Migrations\\20250225200458_AgregarNuevosCampos.cs",
+              "ToolTip": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\Migrations\\20250225200458_AgregarNuevosCampos.cs",
+              "RelativeToolTip": "ProyectoFinal\\Migrations\\20250225200458_AgregarNuevosCampos.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T20:04:58.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Plato.cs",
+              "DocumentMoniker": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\Models\\Plato.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Models\\Plato.cs",
+              "ToolTip": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\Models\\Plato.cs",
+              "RelativeToolTip": "ProyectoFinal\\Models\\Plato.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:17:41.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Program.cs",
+              "ToolTip": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\Program.cs",
+              "RelativeToolTip": "ProyectoFinal\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:48:16.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProyectoFinal.http",
+              "DocumentMoniker": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.http",
+              "RelativeDocumentMoniker": "ProyectoFinal\\ProyectoFinal.http",
+              "ToolTip": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\ProyectoFinal.http",
+              "RelativeToolTip": "ProyectoFinal\\ProyectoFinal.http",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-25T19:03:40.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlatoesController.cs",
+              "DocumentMoniker": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\Controllers\\PlatoesController.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Controllers\\PlatoesController.cs",
+              "ToolTip": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\Controllers\\PlatoesController.cs",
+              "RelativeToolTip": "ProyectoFinal\\Controllers\\PlatoesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:00:01.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RestauranteContext.cs",
+              "DocumentMoniker": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\Models\\RestauranteContext.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\Models\\RestauranteContext.cs",
+              "ToolTip": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\Models\\RestauranteContext.cs",
+              "RelativeToolTip": "ProyectoFinal\\Models\\RestauranteContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwCcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:57:42.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "ProyectoFinal\\WeatherForecast.cs",
+              "ToolTip": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\WeatherForecast.cs",
+              "RelativeToolTip": "ProyectoFinal\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T18:53:16.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\appsettings.json",
+              "RelativeDocumentMoniker": "ProyectoFinal\\appsettings.json",
+              "ToolTip": "C:\\2\u00BADAM\\Acceso a datos\\ProyectoFinal\\ProyectoFinal\\appsettings.json",
+              "RelativeToolTip": "ProyectoFinal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T18:53:07.104Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

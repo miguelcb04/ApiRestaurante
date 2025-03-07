@@ -1,0 +1,62 @@
+@ProyectoFinal_HostAddress = http://localhost:5200
+
+### Obtener el pronóstico del tiempo
+GET {{ProyectoFinal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+### Obtener todos los platos
+GET {{ProyectoFinal_HostAddress}}/api/Platoes
+Accept: application/json
+
+### Obtener un plato por ID
+GET {{ProyectoFinal_HostAddress}}/api/Platoes/2
+Accept: application/json
+
+### Crear un nuevo plato
+POST {{ProyectoFinal_HostAddress}}/api/Platoes
+Content-Type: application/json
+
+{
+  "Nombre": "Tortilla",
+  "Tipo": "Española",
+  "Precio": 15.99,
+  "Disponible": true,
+  "Descripcion": "Tortilla tradicional española.",
+  "Calorias": 900,
+  "Preparacion": "26"
+}
+
+### Actualizar un plato existente
+PUT {{ProyectoFinal_HostAddress}}/api/Platoes/9
+Content-Type: application/json
+
+{
+  "Id": 9,
+  "Nombre": "Tortilla",
+  "Tipo": "Trdicionañ",
+  "Precio": 17.99,
+  "Disponible": true,
+  "Descripcion": "Tortilla tradicional española con cebolla.",
+  "Calorias": 750,
+  "preparacion": "30"
+}
+
+### Eliminar un plato
+DELETE {{ProyectoFinal_HostAddress}}/api/Platoes/7
+Accept: application/json
+
+### Filtrar platos por tipo ( Principal)
+GET {{ProyectoFinal_HostAddress}}/api/Platoes?tipo=Principal
+Accept: application/json
+
+### Buscar platos por nombre ( Paella)
+GET {{ProyectoFinal_HostAddress}}/api/Platoes?nombre=Paella
+Accept: application/json
+
+### Ordenar platos por precio ( ordenar=precio)
+GET {{ProyectoFinal_HostAddress}}/api/Platoes?ordenar=precio
+Accept: application/json
+
+### Filtrar platos por tipo ( Principal)
+GET {{ProyectoFinal_HostAddress}}/api/Platoes?disponible=true
+Accept: application/json
